@@ -1,0 +1,1 @@
+Projeto realizado no vscode, caso não consiga rodar no Visual Studio favor rodar com o comando "dotnet run" dentro da pasta Solution

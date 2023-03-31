@@ -1,0 +1,22 @@
+Pedidos Pendentes:
+
+Pedido 2
+Valor total do pedido: R$818,00
+Saldo do valor: R$500,00
+ - Item 2: saldo de quantidade = 25
+
+Pedido 3
+Valor total do pedido: R$2667,00
+Saldo do valor: R$413,00
+ - Item 3: saldo de quantidade = 5
+ - Item 2: saldo de quantidade = 4
+ - Item 1: saldo de quantidade = 27
+
+Pedido 5
+Valor total do pedido: R$2400,00
+Saldo do valor: R$555,90
+ - Item 6: saldo de quantidade = 1
+ - Item 4: saldo de quantidade = 9
+ - Item 2: saldo de quantidade = 15
+ - Item 1: saldo de quantidade = 3
+
